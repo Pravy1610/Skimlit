@@ -12,4 +12,4 @@ Project Structure:
 2. Data Preprocessing --> Preprocessing dataset to prepare the data for modelling. Preprocess the text data by removing any irrelevant information, special characters,
     or unwanted elements. Tokenize the text into words or subwords and convert them into numerical representations.
 3. Exploratory Data Analysis(EDA) --> Performing data exploration to understand the characteristics of the dataset. Analyzing the distribution of paper lengths, summary lengths, and other relevant statistics. Making numerical labels since Machine Learning models require numeric labels.To numerically encode labels  Scikit-Learn's OneHotEncoder and LabelEncoder class is used.
-4. 
+
